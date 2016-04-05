@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -59.993603 -3.142808 7 180
+OBJECT_SHARED Models/Airport/ils.xml -59.976 -3.1435 65.49 256.06
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -59.9652479 -3.175245 6.95 276.99
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -59.9838214 -3.1634937 6.96 13.9
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -59.9104927 -3.1369149 3.88 314.28
