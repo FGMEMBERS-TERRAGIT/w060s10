@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -56.397833 -1.486333 56.57 180
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -56.3820961 -1.4605395 4 25.58
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -56.3814499 -1.4607391 5.01 181.7
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -56.3797697 -1.4605747 16.18 318.22
+OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -56.3792879 -1.4604103 17.53 218.77
